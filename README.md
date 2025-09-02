@@ -45,7 +45,9 @@ pip install -e .
 Clone this repository
 
 ```bash
-cd ~/Desktop/coding_test/fastvlm
+cd ~/Desktop/coding_test
+git clone https://github.com/TechNavii/apple_fastvlm_vision_app.git
+cd fastvlm
 pip install -r requirements.txt
 ```
 
