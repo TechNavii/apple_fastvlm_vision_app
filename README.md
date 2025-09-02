@@ -42,8 +42,6 @@ pip install -e .
 
 ### 3. Install GUI Dependencies
 
-Clone this repository
-
 ```bash
 cd ~/Desktop/coding_test
 git clone https://github.com/TechNavii/apple_fastvlm_vision_app.git
