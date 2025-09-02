@@ -103,10 +103,6 @@ Open your browser at: **http://127.0.0.1:7860**
 - Increase auto-analysis interval
 - Close other applications
 
-## License
-
-MIT License - See [LICENSE](LICENSE) file
-
 ## Acknowledgments
 
 - Apple ML Research for FastVLM models
