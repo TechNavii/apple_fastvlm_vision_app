@@ -42,6 +42,8 @@ pip install -e .
 
 ### 3. Install GUI Dependencies
 
+Clone this repository
+
 ```bash
 cd ~/Desktop/coding_test/fastvlm
 pip install -r requirements.txt
